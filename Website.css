@@ -104,13 +104,13 @@ section {
 }
 
 section {
-    background-image: url(./asset/home.jpeg);
+    background-image: url(asset/home\ \(1\).jpeg)
 }
 
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9), url(./asset/home.jpeg));
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9), url(asset/home\ \(1\).jpeg));
     background-position: top right;
     background-size: cover;
     display: flex;
